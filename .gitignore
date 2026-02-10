@@ -6,3 +6,4 @@
 *.pt
 checkpoints/
 **/checkpoints/
+.idea/
